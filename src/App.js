@@ -8,7 +8,7 @@ import HomePage from './pages/home';
 
 import './App.scss';
 
-// Amazon clone
+// Amazon clone react app
 
 function App() {
   return (
