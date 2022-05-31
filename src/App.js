@@ -8,6 +8,8 @@ import HomePage from './pages/home';
 
 import './App.scss';
 
+// Amazon clone
+
 function App() {
   return (
     <Router>
